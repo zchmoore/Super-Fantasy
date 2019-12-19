@@ -103,7 +103,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
-INTERNAL_IPS = ['128.1.1.1.1'] #update this with Macbook IP 
+INTERNAL_IPS = ['128.1.1.1.1'] #update this with Macbook IP no clue
 
 LANGUAGE_CODE = 'en-us'
 
